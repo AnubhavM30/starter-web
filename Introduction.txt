@@ -1,4 +1,5 @@
 # Introduction
 this is introduction to git and github
 ## To Basic Git
+actually git is a version control system which was used for linux initially
 ### Learning and earning
